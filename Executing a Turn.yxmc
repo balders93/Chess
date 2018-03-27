@@ -1,0 +1,1512 @@
+<?xml version="1.0"?>
+<AlteryxDocument yxmdVer="11.7">
+  <Nodes>
+    <Node ToolID="153">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.MacroInput.MacroInput">
+        <Position x="90" y="366" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <UseFileInput value="False" />
+          <Name>Iterative Input</Name>
+          <Abbrev />
+          <ShowFieldMap value="True" />
+          <Optional value="False" />
+          <TextInput>
+            <Configuration>
+              <NumRows value="64" />
+              <Fields>
+                <Field name="Joining Field" />
+                <Field name="Cell" />
+                <Field name="Row" />
+                <Field name="Column" />
+                <Field name="Colour" />
+                <Field name="Piece" />
+              </Fields>
+              <Data>
+                <r>
+                  <c>1</c>
+                  <c>1</c>
+                  <c>1</c>
+                  <c>1</c>
+                  <c>1</c>
+                  <c>R</c>
+                </r>
+                <r>
+                  <c>1</c>
+                  <c>2</c>
+                  <c>1</c>
+                  <c>2</c>
+                  <c>1</c>
+                  <c>N</c>
+                </r>
+                <r>
+                  <c>1</c>
+                  <c>3</c>
+                  <c>1</c>
+                  <c>3</c>
+                  <c>1</c>
+                  <c>B</c>
+                </r>
+                <r>
+                  <c>1</c>
+                  <c>4</c>
+                  <c>1</c>
+                  <c>4</c>
+                  <c>1</c>
+                  <c>Q</c>
+                </r>
+                <r>
+                  <c>1</c>
+                  <c>5</c>
+                  <c>1</c>
+                  <c>5</c>
+                  <c>1</c>
+                  <c>K</c>
+                </r>
+                <r>
+                  <c>1</c>
+                  <c>6</c>
+                  <c>1</c>
+                  <c>6</c>
+                  <c>1</c>
+                  <c>B</c>
+                </r>
+                <r>
+                  <c>1</c>
+                  <c>7</c>
+                  <c>1</c>
+                  <c>7</c>
+                  <c>1</c>
+                  <c>N</c>
+                </r>
+                <r>
+                  <c>1</c>
+                  <c>8</c>
+                  <c>1</c>
+                  <c>8</c>
+                  <c>1</c>
+                  <c>R</c>
+                </r>
+                <r>
+                  <c>1</c>
+                  <c>9</c>
+                  <c>2</c>
+                  <c>1</c>
+                  <c>1</c>
+                  <c>P</c>
+                </r>
+                <r>
+                  <c>1</c>
+                  <c>10</c>
+                  <c>2</c>
+                  <c>2</c>
+                  <c>1</c>
+                  <c>P</c>
+                </r>
+                <r>
+                  <c>1</c>
+                  <c>11</c>
+                  <c>2</c>
+                  <c>3</c>
+                  <c>1</c>
+                  <c>P</c>
+                </r>
+                <r>
+                  <c>1</c>
+                  <c>12</c>
+                  <c>2</c>
+                  <c>4</c>
+                  <c>1</c>
+                  <c>P</c>
+                </r>
+                <r>
+                  <c>1</c>
+                  <c>13</c>
+                  <c>2</c>
+                  <c>5</c>
+                  <c>1</c>
+                  <c>P</c>
+                </r>
+                <r>
+                  <c>1</c>
+                  <c>14</c>
+                  <c>2</c>
+                  <c>6</c>
+                  <c>1</c>
+                  <c>P</c>
+                </r>
+                <r>
+                  <c>1</c>
+                  <c>15</c>
+                  <c>2</c>
+                  <c>7</c>
+                  <c>1</c>
+                  <c>P</c>
+                </r>
+                <r>
+                  <c>1</c>
+                  <c>16</c>
+                  <c>2</c>
+                  <c>8</c>
+                  <c>1</c>
+                  <c>P</c>
+                </r>
+                <r>
+                  <c>1</c>
+                  <c>17</c>
+                  <c>3</c>
+                  <c>1</c>
+                  <c />
+                  <c />
+                </r>
+                <r>
+                  <c>1</c>
+                  <c>18</c>
+                  <c>3</c>
+                  <c>2</c>
+                  <c />
+                  <c />
+                </r>
+                <r>
+                  <c>1</c>
+                  <c>19</c>
+                  <c>3</c>
+                  <c>3</c>
+                  <c />
+                  <c />
+                </r>
+                <r>
+                  <c>1</c>
+                  <c>20</c>
+                  <c>3</c>
+                  <c>4</c>
+                  <c />
+                  <c />
+                </r>
+                <r>
+                  <c>1</c>
+                  <c>21</c>
+                  <c>3</c>
+                  <c>5</c>
+                  <c />
+                  <c />
+                </r>
+                <r>
+                  <c>1</c>
+                  <c>22</c>
+                  <c>3</c>
+                  <c>6</c>
+                  <c />
+                  <c />
+                </r>
+                <r>
+                  <c>1</c>
+                  <c>23</c>
+                  <c>3</c>
+                  <c>7</c>
+                  <c />
+                  <c />
+                </r>
+                <r>
+                  <c>1</c>
+                  <c>24</c>
+                  <c>3</c>
+                  <c>8</c>
+                  <c />
+                  <c />
+                </r>
+                <r>
+                  <c>1</c>
+                  <c>25</c>
+                  <c>4</c>
+                  <c>1</c>
+                  <c />
+                  <c />
+                </r>
+                <r>
+                  <c>1</c>
+                  <c>26</c>
+                  <c>4</c>
+                  <c>2</c>
+                  <c />
+                  <c />
+                </r>
+                <r>
+                  <c>1</c>
+                  <c>27</c>
+                  <c>4</c>
+                  <c>3</c>
+                  <c />
+                  <c />
+                </r>
+                <r>
+                  <c>1</c>
+                  <c>28</c>
+                  <c>4</c>
+                  <c>4</c>
+                  <c />
+                  <c />
+                </r>
+                <r>
+                  <c>1</c>
+                  <c>29</c>
+                  <c>4</c>
+                  <c>5</c>
+                  <c />
+                  <c />
+                </r>
+                <r>
+                  <c>1</c>
+                  <c>30</c>
+                  <c>4</c>
+                  <c>6</c>
+                  <c />
+                  <c />
+                </r>
+                <r>
+                  <c>1</c>
+                  <c>31</c>
+                  <c>4</c>
+                  <c>7</c>
+                  <c />
+                  <c />
+                </r>
+                <r>
+                  <c>1</c>
+                  <c>32</c>
+                  <c>4</c>
+                  <c>8</c>
+                  <c />
+                  <c />
+                </r>
+                <r>
+                  <c>1</c>
+                  <c>33</c>
+                  <c>5</c>
+                  <c>1</c>
+                  <c />
+                  <c />
+                </r>
+                <r>
+                  <c>1</c>
+                  <c>34</c>
+                  <c>5</c>
+                  <c>2</c>
+                  <c />
+                  <c />
+                </r>
+                <r>
+                  <c>1</c>
+                  <c>35</c>
+                  <c>5</c>
+                  <c>3</c>
+                  <c />
+                  <c />
+                </r>
+                <r>
+                  <c>1</c>
+                  <c>36</c>
+                  <c>5</c>
+                  <c>4</c>
+                  <c />
+                  <c />
+                </r>
+                <r>
+                  <c>1</c>
+                  <c>37</c>
+                  <c>5</c>
+                  <c>5</c>
+                  <c />
+                  <c />
+                </r>
+                <r>
+                  <c>1</c>
+                  <c>38</c>
+                  <c>5</c>
+                  <c>6</c>
+                  <c />
+                  <c />
+                </r>
+                <r>
+                  <c>1</c>
+                  <c>39</c>
+                  <c>5</c>
+                  <c>7</c>
+                  <c />
+                  <c />
+                </r>
+                <r>
+                  <c>1</c>
+                  <c>40</c>
+                  <c>5</c>
+                  <c>8</c>
+                  <c />
+                  <c />
+                </r>
+                <r>
+                  <c>1</c>
+                  <c>41</c>
+                  <c>6</c>
+                  <c>1</c>
+                  <c />
+                  <c />
+                </r>
+                <r>
+                  <c>1</c>
+                  <c>42</c>
+                  <c>6</c>
+                  <c>2</c>
+                  <c />
+                  <c />
+                </r>
+                <r>
+                  <c>1</c>
+                  <c>43</c>
+                  <c>6</c>
+                  <c>3</c>
+                  <c />
+                  <c />
+                </r>
+                <r>
+                  <c>1</c>
+                  <c>44</c>
+                  <c>6</c>
+                  <c>4</c>
+                  <c />
+                  <c />
+                </r>
+                <r>
+                  <c>1</c>
+                  <c>45</c>
+                  <c>6</c>
+                  <c>5</c>
+                  <c />
+                  <c />
+                </r>
+                <r>
+                  <c>1</c>
+                  <c>46</c>
+                  <c>6</c>
+                  <c>6</c>
+                  <c />
+                  <c />
+                </r>
+                <r>
+                  <c>1</c>
+                  <c>47</c>
+                  <c>6</c>
+                  <c>7</c>
+                  <c />
+                  <c />
+                </r>
+                <r>
+                  <c>1</c>
+                  <c>48</c>
+                  <c>6</c>
+                  <c>8</c>
+                  <c />
+                  <c />
+                </r>
+                <r>
+                  <c>1</c>
+                  <c>49</c>
+                  <c>7</c>
+                  <c>1</c>
+                  <c>2</c>
+                  <c>P</c>
+                </r>
+                <r>
+                  <c>1</c>
+                  <c>50</c>
+                  <c>7</c>
+                  <c>2</c>
+                  <c>2</c>
+                  <c>P</c>
+                </r>
+                <r>
+                  <c>1</c>
+                  <c>51</c>
+                  <c>7</c>
+                  <c>3</c>
+                  <c>2</c>
+                  <c>P</c>
+                </r>
+                <r>
+                  <c>1</c>
+                  <c>52</c>
+                  <c>7</c>
+                  <c>4</c>
+                  <c>2</c>
+                  <c>P</c>
+                </r>
+                <r>
+                  <c>1</c>
+                  <c>53</c>
+                  <c>7</c>
+                  <c>5</c>
+                  <c>2</c>
+                  <c>P</c>
+                </r>
+                <r>
+                  <c>1</c>
+                  <c>54</c>
+                  <c>7</c>
+                  <c>6</c>
+                  <c>2</c>
+                  <c>P</c>
+                </r>
+                <r>
+                  <c>1</c>
+                  <c>55</c>
+                  <c>7</c>
+                  <c>7</c>
+                  <c>2</c>
+                  <c>P</c>
+                </r>
+                <r>
+                  <c>1</c>
+                  <c>56</c>
+                  <c>7</c>
+                  <c>8</c>
+                  <c>2</c>
+                  <c>P</c>
+                </r>
+                <r>
+                  <c>1</c>
+                  <c>57</c>
+                  <c>8</c>
+                  <c>1</c>
+                  <c>2</c>
+                  <c>R</c>
+                </r>
+                <r>
+                  <c>1</c>
+                  <c>58</c>
+                  <c>8</c>
+                  <c>2</c>
+                  <c>2</c>
+                  <c>N</c>
+                </r>
+                <r>
+                  <c>1</c>
+                  <c>59</c>
+                  <c>8</c>
+                  <c>3</c>
+                  <c>2</c>
+                  <c>B</c>
+                </r>
+                <r>
+                  <c>1</c>
+                  <c>60</c>
+                  <c>8</c>
+                  <c>4</c>
+                  <c>2</c>
+                  <c>Q</c>
+                </r>
+                <r>
+                  <c>1</c>
+                  <c>61</c>
+                  <c>8</c>
+                  <c>5</c>
+                  <c>2</c>
+                  <c>K</c>
+                </r>
+                <r>
+                  <c>1</c>
+                  <c>62</c>
+                  <c>8</c>
+                  <c>6</c>
+                  <c>2</c>
+                  <c>B</c>
+                </r>
+                <r>
+                  <c>1</c>
+                  <c>63</c>
+                  <c>8</c>
+                  <c>7</c>
+                  <c>2</c>
+                  <c>N</c>
+                </r>
+                <r>
+                  <c>1</c>
+                  <c>64</c>
+                  <c>8</c>
+                  <c>8</c>
+                  <c>2</c>
+                  <c>R</c>
+                </r>
+              </Data>
+            </Configuration>
+          </TextInput>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name>Iterative Input</Name>
+          <DefaultAnnotationText />
+          <Left value="True" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Joining Field" source="TextInput:" type="Byte" />
+            <Field name="Cell" source="TextInput:" type="Byte" />
+            <Field name="Row" source="TextInput:" type="Byte" />
+            <Field name="Column" source="TextInput:" type="Byte" />
+            <Field name="Colour" source="TextInput:" type="Byte" />
+            <Field name="Piece" size="1" source="TextInput:" type="String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxMacroInput" />
+    </Node>
+    <Node ToolID="16">
+      <GuiSettings Plugin="AlteryxGuiToolkit.TextBox.TextBox">
+        <Position x="54" y="54" width="720" height="96" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Text>Executing a Turn</Text>
+          <Font name="Segoe UI" size="48" style="0" />
+          <TextColor name="Black" />
+          <FillColor name="White" />
+          <Shape shape="3" />
+          <Justification Justification="3" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+    </Node>
+    <Node ToolID="17">
+      <GuiSettings Plugin="AlteryxGuiToolkit.TextBox.TextBox">
+        <Position x="66" y="138" width="552" height="40" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Text>- Workflow by Ian Baldwin</Text>
+          <Font name="Segoe UI" size="20.25" style="0" />
+          <TextColor name="Black" />
+          <FillColor name="White" />
+          <Shape shape="3" />
+          <Justification Justification="3" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+    </Node>
+    <Node ToolID="171">
+      <GuiSettings>
+        <Position x="270" y="366" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Value name="Input.Input131"><![CDATA[Joining Field=Joining Field
+Cell=Cell
+Row=Row
+Column=Column
+Colour=Colour
+Piece=Piece
+]]></Value>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name>Possible Moves Macro (130)</Name>
+          <AnnotationText>List of Legal Moves</AnnotationText>
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output132">
+          <RecordInfo>
+            <Field name="Joining Field" source="TextInput:" type="Byte" />
+            <Field name="Cell" source="TextInput:" type="Byte" />
+            <Field name="Row" source="TextInput:" type="Byte" />
+            <Field name="Column" source="TextInput:" type="Byte" />
+            <Field name="Colour" source="TextInput:" type="Byte" />
+            <Field name="Piece" size="1" source="TextInput:" type="String" />
+            <Field name="Target_Cell" source="TextInput:" type="Byte" />
+            <Field name="Target_Row" source="TextInput:" type="Byte" />
+            <Field name="Target_Column" source="TextInput:" type="Byte" />
+            <Field name="Target_Colour" source="TextInput:" type="Byte" />
+            <Field name="Target_Piece" size="1" source="TextInput:" type="String" />
+            <Field name="Move Type" source="Formula: (Multiple Sources)" type="Byte" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings Macro=".\\Possible Moves Macro.yxmc" />
+    </Node>
+    <Node ToolID="133">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+        <Position x="414" y="366" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <FormulaFields>
+            <FormulaField expression="RAND()" field="Move Value" size="8" type="Double" />
+          </FormulaFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <AnnotationText>Move Value</AnnotationText>
+          <DefaultAnnotationText><![CDATA[Move Value = RAND()
+]]></DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Joining Field" source="TextInput:" type="Byte" />
+            <Field name="Cell" source="TextInput:" type="Byte" />
+            <Field name="Row" source="TextInput:" type="Byte" />
+            <Field name="Column" source="TextInput:" type="Byte" />
+            <Field name="Colour" source="TextInput:" type="Byte" />
+            <Field name="Piece" size="1" source="TextInput:" type="String" />
+            <Field name="Target_Cell" source="TextInput:" type="Byte" />
+            <Field name="Target_Row" source="TextInput:" type="Byte" />
+            <Field name="Target_Column" source="TextInput:" type="Byte" />
+            <Field name="Target_Colour" source="TextInput:" type="Byte" />
+            <Field name="Target_Piece" size="1" source="TextInput:" type="String" />
+            <Field name="Move Type" source="Formula: (Multiple Sources)" type="Byte" />
+            <Field name="Move Value" source="Formula: RAND()" type="Double" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+    </Node>
+    <Node ToolID="136">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Sample.Sample">
+        <Position x="714" y="366" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <GroupFields orderChanged="False" />
+          <Mode>First</Mode>
+          <N>1</N>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <AnnotationText>Top Move</AnnotationText>
+          <DefaultAnnotationText>First 1</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Joining Field" source="TextInput:" type="Byte" />
+            <Field name="Cell" source="TextInput:" type="Byte" />
+            <Field name="Row" source="TextInput:" type="Byte" />
+            <Field name="Column" source="TextInput:" type="Byte" />
+            <Field name="Colour" source="TextInput:" type="Byte" />
+            <Field name="Piece" size="1" source="TextInput:" type="String" />
+            <Field name="Target_Cell" source="TextInput:" type="Byte" />
+            <Field name="Target_Row" source="TextInput:" type="Byte" />
+            <Field name="Target_Column" source="TextInput:" type="Byte" />
+            <Field name="Target_Colour" source="TextInput:" type="Byte" />
+            <Field name="Target_Piece" size="1" source="TextInput:" type="String" />
+            <Field name="Move Type" source="Formula: (Multiple Sources)" type="Byte" />
+            <Field name="Move Value" source="Formula: RAND()" type="Double" />
+          </RecordInfo>
+          <SortInfo locale="0">
+            <Field field="Move Value" order="Descending" />
+          </SortInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSample" />
+    </Node>
+    <Node ToolID="137">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Sort.Sort">
+        <Position x="558" y="366" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <SortInfo locale="0">
+            <Field field="Move Value" order="Descending" />
+          </SortInfo>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <AnnotationText>Sort by Value</AnnotationText>
+          <DefaultAnnotationText>Move Value - Descending</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Joining Field" source="TextInput:" type="Byte" />
+            <Field name="Cell" source="TextInput:" type="Byte" />
+            <Field name="Row" source="TextInput:" type="Byte" />
+            <Field name="Column" source="TextInput:" type="Byte" />
+            <Field name="Colour" source="TextInput:" type="Byte" />
+            <Field name="Piece" size="1" source="TextInput:" type="String" />
+            <Field name="Target_Cell" source="TextInput:" type="Byte" />
+            <Field name="Target_Row" source="TextInput:" type="Byte" />
+            <Field name="Target_Column" source="TextInput:" type="Byte" />
+            <Field name="Target_Colour" source="TextInput:" type="Byte" />
+            <Field name="Target_Piece" size="1" source="TextInput:" type="String" />
+            <Field name="Move Type" source="Formula: (Multiple Sources)" type="Byte" />
+            <Field name="Move Value" source="Formula: RAND()" type="Double" />
+          </RecordInfo>
+          <SortInfo locale="0">
+            <Field field="Move Value" order="Descending" />
+          </SortInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSort" />
+    </Node>
+    <Node ToolID="139">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Arrange.Arrange">
+        <Position x="1050" y="366" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <KeyFields orderChanged="False" />
+          <OutputFields>
+            <Columns>
+              <Column name="Joining Field" type="combobox" />
+              <Column name="Cell" type="combobox" />
+              <Column name="Row" type="combobox" />
+              <Column name="Column" type="combobox" />
+              <Column name="Colour" type="combobox" />
+              <Column name="Piece" type="combobox" />
+            </Columns>
+            <Data>
+              <r>
+                <c>Joining Field</c>
+                <c>Cell</c>
+                <c>Row</c>
+                <c>Column</c>
+                <c>[none]</c>
+                <c>[none]</c>
+              </r>
+              <r>
+                <c>Joining Field</c>
+                <c>Target_Cell</c>
+                <c>Target_Row</c>
+                <c>Target_Column</c>
+                <c>Colour</c>
+                <c>Piece</c>
+              </r>
+            </Data>
+          </OutputFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <AnnotationText>Changing Cells</AnnotationText>
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Joining Field" source="TextInput:" type="Byte" />
+            <Field name="Cell" source="TextInput:" type="Byte" />
+            <Field name="Row" source="TextInput:" type="Byte" />
+            <Field name="Column" source="TextInput:" type="Byte" />
+            <Field name="Colour" source="TextInput:" type="Byte" />
+            <Field name="Piece" size="1" source="Formula: IF [Piece] = &quot;P&quot; AND [Target_Row] = 8 THEN &quot;Q&quot; ELSE [Piece] ENDIF  " type="String" />
+          </RecordInfo>
+          <SortInfo>
+          </SortInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxArrange" />
+    </Node>
+    <Node ToolID="141">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+        <Position x="930" y="366" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <FormulaFields>
+            <FormulaField expression="IF [Piece] = &quot;P&quot; AND [Target_Row] = 8 THEN &quot;Q&quot; ELSE [Piece] ENDIF  " field="Piece" size="1" type="String" />
+          </FormulaFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <AnnotationText>Queening a Pawn</AnnotationText>
+          <DefaultAnnotationText><![CDATA[Piece = IF [Piece] = "P" AND [Target_Row] = 8 THEN "Q" ELSE [Piece] ENDIF  
+]]></DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Joining Field" source="TextInput:" type="Byte" />
+            <Field name="Cell" source="TextInput:" type="Byte" />
+            <Field name="Row" source="TextInput:" type="Byte" />
+            <Field name="Column" source="TextInput:" type="Byte" />
+            <Field name="Colour" source="TextInput:" type="Byte" />
+            <Field name="Piece" size="1" source="Formula: IF [Piece] = &quot;P&quot; AND [Target_Row] = 8 THEN &quot;Q&quot; ELSE [Piece] ENDIF  " type="String" />
+            <Field name="Target_Cell" source="TextInput:" type="Byte" />
+            <Field name="Target_Row" source="TextInput:" type="Byte" />
+            <Field name="Target_Column" source="TextInput:" type="Byte" />
+            <Field name="Target_Colour" source="TextInput:" type="Byte" />
+            <Field name="Target_Piece" size="1" source="TextInput:" type="String" />
+            <Field name="Move Type" source="Formula: (Multiple Sources)" type="Byte" />
+            <Field name="Move Value" source="Formula: RAND()" type="Double" />
+          </RecordInfo>
+          <SortInfo locale="0">
+            <Field field="Move Value" order="Descending" />
+          </SortInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+    </Node>
+    <Node ToolID="144">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Join.Join">
+        <Position x="1230" y="450" />
+      </GuiSettings>
+      <Properties>
+        <Configuration joinByRecordPos="False">
+          <JoinInfo connection="Left">
+            <Field field="Cell" />
+          </JoinInfo>
+          <JoinInfo connection="Right">
+            <Field field="Cell" />
+          </JoinInfo>
+          <SelectConfiguration>
+            <Configuration outputConnection="Join">
+              <OrderChanged value="False" />
+              <CommaDecimal value="False" />
+              <SelectFields>
+                <SelectField field="Right_Joining Field" selected="False" rename="Right_Joining Field" />
+                <SelectField field="Right_Cell" selected="False" rename="Right_Cell" />
+                <SelectField field="Right_Row" selected="False" rename="Right_Row" />
+                <SelectField field="Right_Column" selected="False" rename="Right_Column" />
+                <SelectField field="Right_Colour" selected="False" rename="Right_Colour" />
+                <SelectField field="Right_Piece" selected="False" rename="Right_Piece" />
+                <SelectField field="*Unknown" selected="True" />
+              </SelectFields>
+            </Configuration>
+          </SelectConfiguration>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Left">
+          <RecordInfo>
+            <Field name="Joining Field" source="TextInput:" type="Byte" />
+            <Field name="Cell" source="TextInput:" type="Byte" />
+            <Field name="Row" source="TextInput:" type="Byte" />
+            <Field name="Column" source="TextInput:" type="Byte" />
+            <Field name="Colour" source="TextInput:" type="Byte" />
+            <Field name="Piece" size="1" source="Formula: IF [Piece] = &quot;P&quot; AND [Target_Row] = 8 THEN &quot;Q&quot; ELSE [Piece] ENDIF  " type="String" />
+          </RecordInfo>
+          <SortInfo noProgress="True">
+            <Field field="Cell" />
+          </SortInfo>
+        </MetaInfo>
+        <MetaInfo connection="Join">
+          <RecordInfo>
+            <Field name="Joining Field" source="TextInput:" type="Byte" />
+            <Field name="Cell" source="TextInput:" type="Byte" />
+            <Field name="Row" source="TextInput:" type="Byte" />
+            <Field name="Column" source="TextInput:" type="Byte" />
+            <Field name="Colour" source="TextInput:" type="Byte" />
+            <Field name="Piece" size="1" source="Formula: IF [Piece] = &quot;P&quot; AND [Target_Row] = 8 THEN &quot;Q&quot; ELSE [Piece] ENDIF  " type="String" />
+          </RecordInfo>
+          <SortInfo>
+            <Field field="Cell" order="" />
+          </SortInfo>
+        </MetaInfo>
+        <MetaInfo connection="Right">
+          <RecordInfo>
+            <Field name="Joining Field" source="TextInput:" type="Byte" />
+            <Field name="Cell" source="TextInput:" type="Byte" />
+            <Field name="Row" source="TextInput:" type="Byte" />
+            <Field name="Column" source="TextInput:" type="Byte" />
+            <Field name="Colour" source="TextInput:" type="Byte" />
+            <Field name="Piece" size="1" source="TextInput:" type="String" />
+          </RecordInfo>
+          <SortInfo noProgress="True">
+            <Field field="Cell" />
+          </SortInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxJoin" />
+    </Node>
+    <Node ToolID="148">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Union.Union">
+        <Position x="1386" y="450" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <ByName_ErrorMode>Warning</ByName_ErrorMode>
+          <ByName_OutputMode>All</ByName_OutputMode>
+          <Mode>ByName</Mode>
+          <SetOutputOrder value="False" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <AnnotationText>New Board Position</AnnotationText>
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Joining Field" source="TextInput:" type="Byte" />
+            <Field name="Cell" source="TextInput:" type="Byte" />
+            <Field name="Row" source="TextInput:" type="Byte" />
+            <Field name="Column" source="TextInput:" type="Byte" />
+            <Field name="Colour" source="TextInput:" type="Byte" />
+            <Field name="Piece" size="1" source="(Multiple Sources)" type="String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxUnion" />
+    </Node>
+    <Node ToolID="151">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+        <Position x="1542" y="450" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <FormulaFields>
+            <FormulaField expression="65-[Cell]" field="Cell" size="1" type="Byte" />
+            <FormulaField expression="9-[Row]" field="Row" size="1" type="Byte" />
+            <FormulaField expression="9-[Column]" field="Column" size="1" type="Byte" />
+            <FormulaField expression="3-[Colour]" field="Colour" size="1" type="Byte" />
+          </FormulaFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <AnnotationText>Turn the board</AnnotationText>
+          <DefaultAnnotationText><![CDATA[Cell = 65-[Cell]
+Row = 9-[Row]
+Column = 9-[Column]
+Colour = 3-[Colour]
+]]></DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Joining Field" source="TextInput:" type="Byte" />
+            <Field name="Cell" source="Formula: 65-[Cell]" type="Byte" />
+            <Field name="Row" source="Formula: 9-[Row]" type="Byte" />
+            <Field name="Column" source="Formula: 9-[Column]" type="Byte" />
+            <Field name="Colour" source="Formula: 3-[Colour]" type="Byte" />
+            <Field name="Piece" size="1" source="(Multiple Sources)" type="String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+    </Node>
+    <Node ToolID="152">
+      <GuiSettings Plugin="AlteryxGuiToolkit.Questions.Tab.Tab">
+        <Position x="0" y="0" width="59" height="59" />
+      </GuiSettings>
+      <Properties>
+        <Configuration />
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+    </Node>
+    <Node ToolID="154">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.MacroOutput.MacroOutput">
+        <Position x="1878" y="450" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Name>Iterative Output</Name>
+          <Abbrev>I</Abbrev>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxMacroOutput" />
+    </Node>
+    <Node ToolID="158">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.MacroOutput.MacroOutput">
+        <Position x="1734" y="594" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Name>Output18</Name>
+          <Abbrev>O</Abbrev>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxMacroOutput" />
+    </Node>
+    <Node ToolID="159">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+        <Position x="1626" y="594" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <FormulaFields>
+            <FormulaField expression="[Engine.IterationNumber]" field="Turn" size="2" type="Int16" />
+          </FormulaFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText><![CDATA[Turn = [Engine.IterationNumber]
+]]></DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Joining Field" source="TextInput:" type="Byte" />
+            <Field name="Cell" source="Formula: 65-[Cell]" type="Byte" />
+            <Field name="Row" source="Formula: 9-[Row]" type="Byte" />
+            <Field name="Column" source="Formula: 9-[Column]" type="Byte" />
+            <Field name="Colour" source="Formula: 3-[Colour]" type="Byte" />
+            <Field name="Piece" size="1" source="(Multiple Sources)" type="String" />
+            <Field name="Turn" source="Formula: [Engine.IterationNumber]" type="Int16" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+    </Node>
+    <Node ToolID="160">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="1758" y="450" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="*Unknown" selected="True" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Joining Field" source="TextInput:" type="Byte" />
+            <Field name="Cell" source="Formula: 65-[Cell]" type="Byte" />
+            <Field name="Row" source="Formula: 9-[Row]" type="Byte" />
+            <Field name="Column" source="Formula: 9-[Column]" type="Byte" />
+            <Field name="Colour" source="Formula: 3-[Colour]" type="Byte" />
+            <Field name="Piece" size="1" source="(Multiple Sources)" type="String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="161">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Join.Join">
+        <Position x="834" y="546" />
+      </GuiSettings>
+      <Properties>
+        <Configuration joinByRecordPos="False">
+          <JoinInfo connection="Left">
+            <Field field="Joining Field" />
+          </JoinInfo>
+          <JoinInfo connection="Right">
+            <Field field="Joining Field" />
+          </JoinInfo>
+          <SelectConfiguration>
+            <Configuration outputConnection="Join">
+              <OrderChanged value="False" />
+              <CommaDecimal value="False" />
+              <SelectFields>
+                <SelectField field="Left_Joining Field" selected="False" />
+                <SelectField field="Left_Cell" selected="False" />
+                <SelectField field="Left_Row" selected="False" />
+                <SelectField field="Left_Column" selected="False" />
+                <SelectField field="Left_Colour" selected="False" />
+                <SelectField field="Left_Piece" selected="False" />
+                <SelectField field="Left_Target_Cell" selected="False" />
+                <SelectField field="Left_Target_Row" selected="False" />
+                <SelectField field="Left_Target_Column" selected="False" />
+                <SelectField field="Left_Target_Colour" selected="False" />
+                <SelectField field="Left_Target_Piece" selected="False" />
+                <SelectField field="Left_Move Type" selected="False" />
+                <SelectField field="Left_Move Value" selected="False" />
+                <SelectField field="*Unknown" selected="True" />
+              </SelectFields>
+            </Configuration>
+          </SelectConfiguration>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Left">
+          <RecordInfo>
+            <Field name="Joining Field" source="TextInput:" type="Byte" />
+          </RecordInfo>
+          <SortInfo noProgress="True">
+            <Field field="Joining Field" />
+          </SortInfo>
+        </MetaInfo>
+        <MetaInfo connection="Join">
+          <RecordInfo>
+            <Field name="Joining Field" source="TextInput:" type="Byte" />
+            <Field name="Cell" source="TextInput:" type="Byte" />
+            <Field name="Row" source="TextInput:" type="Byte" />
+            <Field name="Column" source="TextInput:" type="Byte" />
+            <Field name="Colour" source="TextInput:" type="Byte" />
+            <Field name="Piece" size="1" source="TextInput:" type="String" />
+          </RecordInfo>
+        </MetaInfo>
+        <MetaInfo connection="Right">
+          <RecordInfo>
+            <Field name="Joining Field" source="TextInput:" type="Byte" />
+            <Field name="Cell" source="TextInput:" type="Byte" />
+            <Field name="Row" source="TextInput:" type="Byte" />
+            <Field name="Column" source="TextInput:" type="Byte" />
+            <Field name="Colour" source="TextInput:" type="Byte" />
+            <Field name="Piece" size="1" source="TextInput:" type="String" />
+          </RecordInfo>
+          <SortInfo noProgress="True">
+            <Field field="Joining Field" />
+          </SortInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxJoin" />
+    </Node>
+    <Node ToolID="162">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
+        <Position x="270" y="474" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Expression><![CDATA[!IsNull([Piece]) AND [Piece] != "K"
+]]></Expression>
+          <Mode>Custom</Mode>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText><![CDATA[!IsNull([Piece]) AND [Piece] != "K"
+]]></DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="True">
+          <RecordInfo>
+            <Field name="Joining Field" source="TextInput:" type="Byte" />
+            <Field name="Cell" source="TextInput:" type="Byte" />
+            <Field name="Row" source="TextInput:" type="Byte" />
+            <Field name="Column" source="TextInput:" type="Byte" />
+            <Field name="Colour" source="TextInput:" type="Byte" />
+            <Field name="Piece" size="1" source="TextInput:" type="String" />
+          </RecordInfo>
+        </MetaInfo>
+        <MetaInfo connection="False">
+          <RecordInfo>
+            <Field name="Joining Field" source="TextInput:" type="Byte" />
+            <Field name="Cell" source="TextInput:" type="Byte" />
+            <Field name="Row" source="TextInput:" type="Byte" />
+            <Field name="Column" source="TextInput:" type="Byte" />
+            <Field name="Colour" source="TextInput:" type="Byte" />
+            <Field name="Piece" size="1" source="TextInput:" type="String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFilter" />
+    </Node>
+    <Node ToolID="163">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Sample.Sample">
+        <Position x="414" y="474" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <GroupFields orderChanged="False" />
+          <Mode>First</Mode>
+          <N>1</N>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>First 1</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Joining Field" source="TextInput:" type="Byte" />
+            <Field name="Cell" source="TextInput:" type="Byte" />
+            <Field name="Row" source="TextInput:" type="Byte" />
+            <Field name="Column" source="TextInput:" type="Byte" />
+            <Field name="Colour" source="TextInput:" type="Byte" />
+            <Field name="Piece" size="1" source="TextInput:" type="String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSample" />
+    </Node>
+    <Node ToolID="164">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Join.Join">
+        <Position x="558" y="558" />
+      </GuiSettings>
+      <Properties>
+        <Configuration joinByRecordPos="False">
+          <JoinInfo connection="Left">
+            <Field field="Joining Field" />
+          </JoinInfo>
+          <JoinInfo connection="Right">
+            <Field field="Joining Field" />
+          </JoinInfo>
+          <SelectConfiguration>
+            <Configuration outputConnection="Join">
+              <OrderChanged value="False" />
+              <CommaDecimal value="False" />
+              <SelectFields>
+                <SelectField field="Left_Joining Field" selected="False" />
+                <SelectField field="Left_Cell" selected="False" />
+                <SelectField field="Left_Row" selected="False" />
+                <SelectField field="Left_Column" selected="False" />
+                <SelectField field="Left_Colour" selected="False" />
+                <SelectField field="Left_Piece" selected="False" />
+                <SelectField field="*Unknown" selected="True" />
+              </SelectFields>
+            </Configuration>
+          </SelectConfiguration>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Left">
+          <RecordInfo>
+            <Field name="Joining Field" source="TextInput:" type="Byte" />
+          </RecordInfo>
+          <SortInfo noProgress="True">
+            <Field field="Joining Field" />
+          </SortInfo>
+        </MetaInfo>
+        <MetaInfo connection="Join">
+          <RecordInfo>
+            <Field name="Joining Field" source="TextInput:" type="Byte" />
+            <Field name="Cell" source="TextInput:" type="Byte" />
+            <Field name="Row" source="TextInput:" type="Byte" />
+            <Field name="Column" source="TextInput:" type="Byte" />
+            <Field name="Colour" source="TextInput:" type="Byte" />
+            <Field name="Piece" size="1" source="TextInput:" type="String" />
+          </RecordInfo>
+        </MetaInfo>
+        <MetaInfo connection="Right">
+          <RecordInfo>
+            <Field name="Joining Field" source="TextInput:" type="Byte" />
+            <Field name="Cell" source="TextInput:" type="Byte" />
+            <Field name="Row" source="TextInput:" type="Byte" />
+            <Field name="Column" source="TextInput:" type="Byte" />
+            <Field name="Colour" source="TextInput:" type="Byte" />
+            <Field name="Piece" size="1" source="TextInput:" type="String" />
+          </RecordInfo>
+          <SortInfo noProgress="True">
+            <Field field="Joining Field" />
+          </SortInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxJoin" />
+    </Node>
+    <Node ToolID="170">
+      <GuiSettings Plugin="AlteryxGuiToolkit.TextBox.TextBox">
+        <Position x="810" y="78" width="252" height="204" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Text><![CDATA[To Do:
+
+Score Positions
+]]></Text>
+          <Font name="Segoe UI" size="12" style="0" />
+          <TextColor name="Black" />
+          <FillColor r="255" g="128" b="128" />
+          <Shape shape="0" />
+          <Justification Justification="3" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+    </Node>
+  </Nodes>
+  <Connections>
+    <Connection>
+      <Origin ToolID="153" Connection="Output" />
+      <Destination ToolID="171" Connection="Input131" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="153" Connection="Output" />
+      <Destination ToolID="162" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="153" Connection="Output" />
+      <Destination ToolID="164" Connection="Right" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="163" Connection="Output" />
+      <Destination ToolID="164" Connection="Left" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="171" Connection="Output132" />
+      <Destination ToolID="133" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="133" Connection="Output" />
+      <Destination ToolID="137" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="136" Connection="Output" />
+      <Destination ToolID="161" Connection="Left" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="164" Connection="Join" />
+      <Destination ToolID="161" Connection="Right" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="136" Connection="Output" />
+      <Destination ToolID="141" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="137" Connection="Output" />
+      <Destination ToolID="136" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="139" Connection="Output" />
+      <Destination ToolID="144" Connection="Left" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="161" Connection="Join" />
+      <Destination ToolID="144" Connection="Right" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="141" Connection="Output" />
+      <Destination ToolID="139" Connection="Input" />
+    </Connection>
+    <Connection name="#1">
+      <Origin ToolID="144" Connection="Join" />
+      <Destination ToolID="148" Connection="Input" />
+    </Connection>
+    <Connection name="#2">
+      <Origin ToolID="144" Connection="Right" />
+      <Destination ToolID="148" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="148" Connection="Output" />
+      <Destination ToolID="151" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="151" Connection="Output" />
+      <Destination ToolID="159" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="151" Connection="Output" />
+      <Destination ToolID="160" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="159" Connection="Output" />
+      <Destination ToolID="158" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="160" Connection="Output" />
+      <Destination ToolID="154" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="162" Connection="True" />
+      <Destination ToolID="163" Connection="Input" />
+    </Connection>
+  </Connections>
+  <Properties>
+    <Memory default="True" />
+    <GlobalRecordLimit value="0" />
+    <TempFiles default="True" />
+    <Annotation on="True" includeToolName="False" />
+    <ConvErrorLimit value="10" />
+    <ConvErrorLimit_Stop value="False" />
+    <CancelOnError value="False" />
+    <DisableBrowse value="False" />
+    <EnablePerformanceProfiling value="False" />
+    <DisableAllOutput value="False" />
+    <ShowAllMacroMessages value="False" />
+    <ShowConnectionStatusIsOn value="True" />
+    <ShowConnectionStatusOnlyWhenRunning value="False" />
+    <ZoomLevel value="0" />
+    <LayoutType>Horizontal</LayoutType>
+    <MetaInfo>
+      <NameIsFileName value="True" />
+      <Name>Executing a Turn</Name>
+      <Description />
+      <RootToolName />
+      <ToolVersion />
+      <ToolInDb value="False" />
+      <CategoryName />
+      <SearchTags />
+      <Author />
+      <Company />
+      <Copyright />
+      <DescriptionLink actual="" displayed="" />
+      <Example>
+        <Description />
+        <File />
+      </Example>
+    </MetaInfo>
+    <Events>
+      <Enabled value="False" />
+    </Events>
+    <RuntimeProperties>
+      <Actions />
+      <Questions>
+        <Question>
+          <Type>Tab</Type>
+          <Description>Questions</Description>
+          <Name>Tab (152)</Name>
+          <ToolId value="152" />
+          <Questions>
+            <Question>
+              <Type>MacroInput</Type>
+              <Description>Iterative Input</Description>
+              <Name>Iterative Input</Name>
+              <ToolId value="153" />
+            </Question>
+            <Question>
+              <Type>MacroOutput</Type>
+              <Description>Macro Output (154)</Description>
+              <Name>Macro Output (154)</Name>
+              <ToolId value="154" />
+            </Question>
+            <Question>
+              <Type>MacroOutput</Type>
+              <Description>Macro Output (18)</Description>
+              <Name>Macro Output (158)</Name>
+              <ToolId value="158" />
+            </Question>
+          </Questions>
+        </Question>
+      </Questions>
+      <ModuleType>Macro</ModuleType>
+      <MacroCustomHelp value="False" />
+      <MacroDynamicOutputFields value="False" />
+      <MacroImageStd value="39" />
+      <MacroInputs />
+      <MacroOutputs />
+      <IterativeMacro>
+        <Input>Iterative Input</Input>
+        <Output>Iterative Output</Output>
+        <IterationLimit value="1000" />
+        <LimitBehavior>Error</LimitBehavior>
+        <OutputMode>AllSame</OutputMode>
+      </IterativeMacro>
+      <Wiz_CustomHelp value="False" />
+      <Wiz_CustomGraphic value="False" />
+      <Wiz_ShowOutput value="True" />
+      <Wiz_OpenOutputTools>
+        <Tool ToolId="153" Selected="True" />
+        <Tool ToolId="171" Selected="True" />
+        <Tool ToolId="154" Selected="True" />
+        <Tool ToolId="158" Selected="True" />
+      </Wiz_OpenOutputTools>
+      <Wiz_OutputMessage />
+      <Wiz_NoOutputFilesMessage />
+      <Wiz_ChainRunWizard />
+    </RuntimeProperties>
+  </Properties>
+</AlteryxDocument>

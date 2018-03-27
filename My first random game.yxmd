@@ -1,0 +1,773 @@
+<?xml version="1.0"?>
+<AlteryxDocument yxmdVer="11.7">
+  <Nodes>
+    <Node ToolID="5">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.TextInput.TextInput">
+        <Position x="54" y="306" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <NumRows value="64" />
+          <Fields>
+            <Field name="Joining Field" />
+            <Field name="Cell" />
+            <Field name="Row" />
+            <Field name="Column" />
+            <Field name="Colour" />
+            <Field name="Piece" />
+          </Fields>
+          <Data>
+            <r>
+              <c>1</c>
+              <c>1</c>
+              <c>1</c>
+              <c>1</c>
+              <c>1</c>
+              <c>R</c>
+            </r>
+            <r>
+              <c>1</c>
+              <c>2</c>
+              <c>1</c>
+              <c>2</c>
+              <c>1</c>
+              <c>N</c>
+            </r>
+            <r>
+              <c>1</c>
+              <c>3</c>
+              <c>1</c>
+              <c>3</c>
+              <c>1</c>
+              <c>B</c>
+            </r>
+            <r>
+              <c>1</c>
+              <c>4</c>
+              <c>1</c>
+              <c>4</c>
+              <c>1</c>
+              <c>Q</c>
+            </r>
+            <r>
+              <c>1</c>
+              <c>5</c>
+              <c>1</c>
+              <c>5</c>
+              <c>1</c>
+              <c>K</c>
+            </r>
+            <r>
+              <c>1</c>
+              <c>6</c>
+              <c>1</c>
+              <c>6</c>
+              <c>1</c>
+              <c>B</c>
+            </r>
+            <r>
+              <c>1</c>
+              <c>7</c>
+              <c>1</c>
+              <c>7</c>
+              <c>1</c>
+              <c>N</c>
+            </r>
+            <r>
+              <c>1</c>
+              <c>8</c>
+              <c>1</c>
+              <c>8</c>
+              <c>1</c>
+              <c>R</c>
+            </r>
+            <r>
+              <c>1</c>
+              <c>9</c>
+              <c>2</c>
+              <c>1</c>
+              <c>1</c>
+              <c>P</c>
+            </r>
+            <r>
+              <c>1</c>
+              <c>10</c>
+              <c>2</c>
+              <c>2</c>
+              <c>1</c>
+              <c>P</c>
+            </r>
+            <r>
+              <c>1</c>
+              <c>11</c>
+              <c>2</c>
+              <c>3</c>
+              <c>1</c>
+              <c>P</c>
+            </r>
+            <r>
+              <c>1</c>
+              <c>12</c>
+              <c>2</c>
+              <c>4</c>
+              <c>1</c>
+              <c>P</c>
+            </r>
+            <r>
+              <c>1</c>
+              <c>13</c>
+              <c>2</c>
+              <c>5</c>
+              <c>1</c>
+              <c>P</c>
+            </r>
+            <r>
+              <c>1</c>
+              <c>14</c>
+              <c>2</c>
+              <c>6</c>
+              <c>1</c>
+              <c>P</c>
+            </r>
+            <r>
+              <c>1</c>
+              <c>15</c>
+              <c>2</c>
+              <c>7</c>
+              <c>1</c>
+              <c>P</c>
+            </r>
+            <r>
+              <c>1</c>
+              <c>16</c>
+              <c>2</c>
+              <c>8</c>
+              <c>1</c>
+              <c>P</c>
+            </r>
+            <r>
+              <c>1</c>
+              <c>17</c>
+              <c>3</c>
+              <c>1</c>
+              <c />
+              <c />
+            </r>
+            <r>
+              <c>1</c>
+              <c>18</c>
+              <c>3</c>
+              <c>2</c>
+              <c />
+              <c />
+            </r>
+            <r>
+              <c>1</c>
+              <c>19</c>
+              <c>3</c>
+              <c>3</c>
+              <c />
+              <c />
+            </r>
+            <r>
+              <c>1</c>
+              <c>20</c>
+              <c>3</c>
+              <c>4</c>
+              <c />
+              <c />
+            </r>
+            <r>
+              <c>1</c>
+              <c>21</c>
+              <c>3</c>
+              <c>5</c>
+              <c />
+              <c />
+            </r>
+            <r>
+              <c>1</c>
+              <c>22</c>
+              <c>3</c>
+              <c>6</c>
+              <c />
+              <c />
+            </r>
+            <r>
+              <c>1</c>
+              <c>23</c>
+              <c>3</c>
+              <c>7</c>
+              <c />
+              <c />
+            </r>
+            <r>
+              <c>1</c>
+              <c>24</c>
+              <c>3</c>
+              <c>8</c>
+              <c />
+              <c />
+            </r>
+            <r>
+              <c>1</c>
+              <c>25</c>
+              <c>4</c>
+              <c>1</c>
+              <c />
+              <c />
+            </r>
+            <r>
+              <c>1</c>
+              <c>26</c>
+              <c>4</c>
+              <c>2</c>
+              <c />
+              <c />
+            </r>
+            <r>
+              <c>1</c>
+              <c>27</c>
+              <c>4</c>
+              <c>3</c>
+              <c />
+              <c />
+            </r>
+            <r>
+              <c>1</c>
+              <c>28</c>
+              <c>4</c>
+              <c>4</c>
+              <c />
+              <c />
+            </r>
+            <r>
+              <c>1</c>
+              <c>29</c>
+              <c>4</c>
+              <c>5</c>
+              <c />
+              <c />
+            </r>
+            <r>
+              <c>1</c>
+              <c>30</c>
+              <c>4</c>
+              <c>6</c>
+              <c />
+              <c />
+            </r>
+            <r>
+              <c>1</c>
+              <c>31</c>
+              <c>4</c>
+              <c>7</c>
+              <c />
+              <c />
+            </r>
+            <r>
+              <c>1</c>
+              <c>32</c>
+              <c>4</c>
+              <c>8</c>
+              <c />
+              <c />
+            </r>
+            <r>
+              <c>1</c>
+              <c>33</c>
+              <c>5</c>
+              <c>1</c>
+              <c />
+              <c />
+            </r>
+            <r>
+              <c>1</c>
+              <c>34</c>
+              <c>5</c>
+              <c>2</c>
+              <c />
+              <c />
+            </r>
+            <r>
+              <c>1</c>
+              <c>35</c>
+              <c>5</c>
+              <c>3</c>
+              <c />
+              <c />
+            </r>
+            <r>
+              <c>1</c>
+              <c>36</c>
+              <c>5</c>
+              <c>4</c>
+              <c />
+              <c />
+            </r>
+            <r>
+              <c>1</c>
+              <c>37</c>
+              <c>5</c>
+              <c>5</c>
+              <c />
+              <c />
+            </r>
+            <r>
+              <c>1</c>
+              <c>38</c>
+              <c>5</c>
+              <c>6</c>
+              <c />
+              <c />
+            </r>
+            <r>
+              <c>1</c>
+              <c>39</c>
+              <c>5</c>
+              <c>7</c>
+              <c />
+              <c />
+            </r>
+            <r>
+              <c>1</c>
+              <c>40</c>
+              <c>5</c>
+              <c>8</c>
+              <c />
+              <c />
+            </r>
+            <r>
+              <c>1</c>
+              <c>41</c>
+              <c>6</c>
+              <c>1</c>
+              <c />
+              <c />
+            </r>
+            <r>
+              <c>1</c>
+              <c>42</c>
+              <c>6</c>
+              <c>2</c>
+              <c />
+              <c />
+            </r>
+            <r>
+              <c>1</c>
+              <c>43</c>
+              <c>6</c>
+              <c>3</c>
+              <c />
+              <c />
+            </r>
+            <r>
+              <c>1</c>
+              <c>44</c>
+              <c>6</c>
+              <c>4</c>
+              <c />
+              <c />
+            </r>
+            <r>
+              <c>1</c>
+              <c>45</c>
+              <c>6</c>
+              <c>5</c>
+              <c />
+              <c />
+            </r>
+            <r>
+              <c>1</c>
+              <c>46</c>
+              <c>6</c>
+              <c>6</c>
+              <c />
+              <c />
+            </r>
+            <r>
+              <c>1</c>
+              <c>47</c>
+              <c>6</c>
+              <c>7</c>
+              <c />
+              <c />
+            </r>
+            <r>
+              <c>1</c>
+              <c>48</c>
+              <c>6</c>
+              <c>8</c>
+              <c />
+              <c />
+            </r>
+            <r>
+              <c>1</c>
+              <c>49</c>
+              <c>7</c>
+              <c>1</c>
+              <c>2</c>
+              <c>P</c>
+            </r>
+            <r>
+              <c>1</c>
+              <c>50</c>
+              <c>7</c>
+              <c>2</c>
+              <c>2</c>
+              <c>P</c>
+            </r>
+            <r>
+              <c>1</c>
+              <c>51</c>
+              <c>7</c>
+              <c>3</c>
+              <c>2</c>
+              <c>P</c>
+            </r>
+            <r>
+              <c>1</c>
+              <c>52</c>
+              <c>7</c>
+              <c>4</c>
+              <c>2</c>
+              <c>P</c>
+            </r>
+            <r>
+              <c>1</c>
+              <c>53</c>
+              <c>7</c>
+              <c>5</c>
+              <c>2</c>
+              <c>P</c>
+            </r>
+            <r>
+              <c>1</c>
+              <c>54</c>
+              <c>7</c>
+              <c>6</c>
+              <c>2</c>
+              <c>P</c>
+            </r>
+            <r>
+              <c>1</c>
+              <c>55</c>
+              <c>7</c>
+              <c>7</c>
+              <c>2</c>
+              <c>P</c>
+            </r>
+            <r>
+              <c>1</c>
+              <c>56</c>
+              <c>7</c>
+              <c>8</c>
+              <c>2</c>
+              <c>P</c>
+            </r>
+            <r>
+              <c>1</c>
+              <c>57</c>
+              <c>8</c>
+              <c>1</c>
+              <c>2</c>
+              <c>R</c>
+            </r>
+            <r>
+              <c>1</c>
+              <c>58</c>
+              <c>8</c>
+              <c>2</c>
+              <c>2</c>
+              <c>N</c>
+            </r>
+            <r>
+              <c>1</c>
+              <c>59</c>
+              <c>8</c>
+              <c>3</c>
+              <c>2</c>
+              <c>B</c>
+            </r>
+            <r>
+              <c>1</c>
+              <c>60</c>
+              <c>8</c>
+              <c>4</c>
+              <c>2</c>
+              <c>Q</c>
+            </r>
+            <r>
+              <c>1</c>
+              <c>61</c>
+              <c>8</c>
+              <c>5</c>
+              <c>2</c>
+              <c>K</c>
+            </r>
+            <r>
+              <c>1</c>
+              <c>62</c>
+              <c>8</c>
+              <c>6</c>
+              <c>2</c>
+              <c>B</c>
+            </r>
+            <r>
+              <c>1</c>
+              <c>63</c>
+              <c>8</c>
+              <c>7</c>
+              <c>2</c>
+              <c>N</c>
+            </r>
+            <r>
+              <c>1</c>
+              <c>64</c>
+              <c>8</c>
+              <c>8</c>
+              <c>2</c>
+              <c>R</c>
+            </r>
+          </Data>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxTextInput" />
+    </Node>
+    <Node ToolID="13">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+        <Position x="486" y="306" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <FormulaFields>
+            <FormulaField expression="IF Mod([Turn], 2) = 1 THEN 65-[Cell] ELSE [Cell] ENDIF" field="Cell" size="1" type="Byte" />
+            <FormulaField expression="IF Mod([Turn], 2) = 1 THEN 9-[Row] ELSE [Row] ENDIF" field="Row" size="1" type="Byte" />
+            <FormulaField expression="IF Mod([Turn], 2) = 1 THEN 9-[Column] ELSE [Column] ENDIF" field="Column" size="1" type="Byte" />
+            <FormulaField expression="IF Mod([Turn], 2) = 1 THEN 3-[Colour] ELSE [Colour] ENDIF" field="Colour" size="1" type="Byte" />
+          </FormulaFields>
+        </Configuration>
+        <Annotation DisplayMode="2">
+          <Name />
+          <DefaultAnnotationText>Cell = IF Mod([Turn], 2) = 1 THEN 65-[Cell] ELSE [Cell] ENDIF
+Row = IF Mod([Turn...</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+    </Node>
+    <Node ToolID="14">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="342" y="306" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="Turn" selected="True" type="Int16" size="2" />
+            <SelectField field="*Unknown" selected="True" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="43">
+      <GuiSettings>
+        <Position x="198" y="306" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Value name="Input.Iterative Input"><![CDATA[Joining Field=Joining Field
+Cell=Cell
+Row=Row
+Column=Column
+Colour=Colour
+Piece=Piece
+]]></Value>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name>Executing a Turn (25)</Name>
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings Macro=".\Executing a Turn.yxmc" />
+    </Node>
+    <Node ToolID="34">
+      <GuiSettings Plugin="AlteryxGuiToolkit.TextBox.TextBox">
+        <Position x="54" y="66" width="720" height="96" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Text>My first random chess match</Text>
+          <Font name="Segoe UI" size="48" style="0" />
+          <TextColor name="Black" />
+          <FillColor name="White" />
+          <Shape shape="3" />
+          <Justification Justification="3" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+    </Node>
+    <Node ToolID="35">
+      <GuiSettings Plugin="AlteryxGuiToolkit.TextBox.TextBox">
+        <Position x="66" y="150" width="552" height="40" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Text>- Workflow by Ian Baldwin</Text>
+          <Font name="Segoe UI" size="20.25" style="0" />
+          <TextColor name="Black" />
+          <FillColor name="White" />
+          <Shape shape="3" />
+          <Justification Justification="3" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+    </Node>
+    <Node ToolID="37">
+      <GuiSettings Plugin="AlteryxGuiToolkit.TextBox.TextBox">
+        <Position x="846" y="54" width="252" height="204" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Text>To Do:
+
+Move macro locations</Text>
+          <Font name="Segoe UI" size="12" style="0" />
+          <TextColor name="Black" />
+          <FillColor r="255" g="128" b="128" />
+          <Shape shape="0" />
+          <Justification Justification="3" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+    </Node>
+    <Node ToolID="41">
+      <GuiSettings>
+        <Position x="678" y="306" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Value name="Text Box (8)">Chess Match</Value>
+          <Value name="Drop Down (14)">Date &amp; Time</Value>
+          <Value name="Folder Browse (9)">.\Data</Value>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+      </Properties>
+      <EngineSettings Macro="Ians-Alteryx-Macros\Save yxdb with Timestamp.yxmc" />
+    </Node>
+    <Node ToolID="42">
+      <GuiSettings>
+        <Position x="678" y="402" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Value name="Text Box (8)">Chess Match</Value>
+          <Value name="Drop Down (14)">Date &amp; Time</Value>
+          <Value name="Folder Browse (9)">.\Data</Value>
+          <Value name="Drop Down (20)">Overwrite an Existing Extract File (Create if does not Exist)</Value>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+      </Properties>
+      <EngineSettings Macro="Ians-Alteryx-Macros\Save TDE with Timestamp.yxmc" />
+    </Node>
+  </Nodes>
+  <Connections>
+    <Connection>
+      <Origin ToolID="5" Connection="Output" />
+      <Destination ToolID="43" Connection="Iterative Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="13" Connection="Output" />
+      <Destination ToolID="41" Connection="" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="13" Connection="Output" />
+      <Destination ToolID="42" Connection="" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="14" Connection="Output" />
+      <Destination ToolID="13" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="43" Connection="Output18" />
+      <Destination ToolID="14" Connection="Input" />
+    </Connection>
+  </Connections>
+  <Properties>
+    <Memory default="True" />
+    <GlobalRecordLimit value="0" />
+    <TempFiles default="True" />
+    <Annotation on="True" includeToolName="False" />
+    <ConvErrorLimit value="10" />
+    <ConvErrorLimit_Stop value="False" />
+    <CancelOnError value="False" />
+    <DisableBrowse value="False" />
+    <EnablePerformanceProfiling value="False" />
+    <DisableAllOutput value="False" />
+    <ShowAllMacroMessages value="False" />
+    <ShowConnectionStatusIsOn value="True" />
+    <ShowConnectionStatusOnlyWhenRunning value="False" />
+    <ZoomLevel value="0" />
+    <LayoutType>Horizontal</LayoutType>
+    <MetaInfo>
+      <NameIsFileName value="True" />
+      <Name>My first random game</Name>
+      <Description />
+      <RootToolName />
+      <ToolVersion />
+      <ToolInDb value="False" />
+      <CategoryName />
+      <SearchTags />
+      <Author />
+      <Company />
+      <Copyright />
+      <DescriptionLink actual="" displayed="" />
+      <Example>
+        <Description />
+        <File />
+      </Example>
+    </MetaInfo>
+    <Events>
+      <Enabled value="False" />
+    </Events>
+  </Properties>
+</AlteryxDocument>
