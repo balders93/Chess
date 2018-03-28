@@ -126,7 +126,7 @@
     </Node>
     <Node ToolID="15">
       <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-        <Position x="234" y="366" />
+        <Position x="222" y="366" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -5171,7 +5171,7 @@ ELSEIF ABS([Colour]-[Target_Colour...</DefaultAnnotationText>
       <Properties>
         <Configuration>
           <UpdateField value="False" />
-          <UpdateField_Name>Joining Field</UpdateField_Name>
+          <UpdateField_Name>Joining field</UpdateField_Name>
           <CreateField_Name>Option</CreateField_Name>
           <CreateField_Type>Byte</CreateField_Type>
           <CreateField_Size>1</CreateField_Size>
@@ -7908,7 +7908,7 @@ OR
 OR
 ([Target_Piece] = "B")
 OR
-([Target_Piece] = "P")
+([Target_Row] = [Row] + 1 AND [Target_Piece] = "P")
 ]]></Expression>
           <Mode>Custom</Mode>
         </Configuration>
@@ -7976,7 +7976,7 @@ OR
 OR
 ([Target_Piece] = "B")
 OR
-([Target_Piece] = "P")
+([Target_Row] = [Row] + 1 AND [Target_Piece] = "P")
 ]]></Expression>
           <Mode>Custom</Mode>
         </Configuration>

@@ -598,7 +598,7 @@
         </Annotation>
       </Properties>
     </Node>
-    <Node ToolID="171">
+    <Node ToolID="176">
       <GuiSettings>
         <Position x="270" y="366" />
       </GuiSettings>
@@ -618,6 +618,9 @@ Piece=Piece
           <DefaultAnnotationText />
           <Left value="False" />
         </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
         <MetaInfo connection="Output132">
           <RecordInfo>
             <Field name="Joining Field" source="TextInput:" type="Byte" />
@@ -644,13 +647,13 @@ Piece=Piece
       <Properties>
         <Configuration>
           <FormulaFields>
-            <FormulaField expression="RAND()" field="Move Value" size="8" type="Double" />
+            <FormulaField expression="RAND()*[Move Type]" field="Move Value" size="8" type="Double" />
           </FormulaFields>
         </Configuration>
         <Annotation DisplayMode="0">
           <Name />
           <AnnotationText>Move Value</AnnotationText>
-          <DefaultAnnotationText><![CDATA[Move Value = RAND()
+          <DefaultAnnotationText><![CDATA[Move Value = RAND()*[Move Type]
 ]]></DefaultAnnotationText>
           <Left value="False" />
         </Annotation>
@@ -668,7 +671,7 @@ Piece=Piece
             <Field name="Target_Colour" source="TextInput:" type="Byte" />
             <Field name="Target_Piece" size="1" source="TextInput:" type="String" />
             <Field name="Move Type" source="Formula: (Multiple Sources)" type="Byte" />
-            <Field name="Move Value" source="Formula: RAND()" type="Double" />
+            <Field name="Move Value" source="Formula: RAND()*[Move Type]" type="Double" />
           </RecordInfo>
         </MetaInfo>
       </Properties>
@@ -704,7 +707,7 @@ Piece=Piece
             <Field name="Target_Colour" source="TextInput:" type="Byte" />
             <Field name="Target_Piece" size="1" source="TextInput:" type="String" />
             <Field name="Move Type" source="Formula: (Multiple Sources)" type="Byte" />
-            <Field name="Move Value" source="Formula: RAND()" type="Double" />
+            <Field name="Move Value" source="Formula: RAND()*[Move Type]" type="Double" />
           </RecordInfo>
           <SortInfo locale="0">
             <Field field="Move Value" order="Descending" />
@@ -743,7 +746,7 @@ Piece=Piece
             <Field name="Target_Colour" source="TextInput:" type="Byte" />
             <Field name="Target_Piece" size="1" source="TextInput:" type="String" />
             <Field name="Move Type" source="Formula: (Multiple Sources)" type="Byte" />
-            <Field name="Move Value" source="Formula: RAND()" type="Double" />
+            <Field name="Move Value" source="Formula: RAND()*[Move Type]" type="Double" />
           </RecordInfo>
           <SortInfo locale="0">
             <Field field="Move Value" order="Descending" />
@@ -840,7 +843,7 @@ Piece=Piece
             <Field name="Target_Colour" source="TextInput:" type="Byte" />
             <Field name="Target_Piece" size="1" source="TextInput:" type="String" />
             <Field name="Move Type" source="Formula: (Multiple Sources)" type="Byte" />
-            <Field name="Move Value" source="Formula: RAND()" type="Double" />
+            <Field name="Move Value" source="Formula: RAND()*[Move Type]" type="Double" />
           </RecordInfo>
           <SortInfo locale="0">
             <Field field="Move Value" order="Descending" />
@@ -1332,7 +1335,7 @@ Score Positions
   <Connections>
     <Connection>
       <Origin ToolID="153" Connection="Output" />
-      <Destination ToolID="171" Connection="Input131" />
+      <Destination ToolID="176" Connection="Input131" />
     </Connection>
     <Connection>
       <Origin ToolID="153" Connection="Output" />
@@ -1347,7 +1350,7 @@ Score Positions
       <Destination ToolID="164" Connection="Left" />
     </Connection>
     <Connection>
-      <Origin ToolID="171" Connection="Output132" />
+      <Origin ToolID="176" Connection="Output132" />
       <Destination ToolID="133" Connection="Input" />
     </Connection>
     <Connection>
@@ -1500,9 +1503,9 @@ Score Positions
       <Wiz_ShowOutput value="True" />
       <Wiz_OpenOutputTools>
         <Tool ToolId="153" Selected="True" />
-        <Tool ToolId="171" Selected="True" />
         <Tool ToolId="154" Selected="True" />
         <Tool ToolId="158" Selected="True" />
+        <Tool ToolId="176" Selected="True" />
       </Wiz_OpenOutputTools>
       <Wiz_OutputMessage />
       <Wiz_NoOutputFilesMessage />
